@@ -13,7 +13,7 @@ This Model will give the result with 93% of accuracy.
 7) argparse==1.1
 8) scipy==1.4.1
 
-Steps to run:
+## Steps to run:
 
 1) Install the required libraries.
 2) Open the python file in any Python Interpreter.
